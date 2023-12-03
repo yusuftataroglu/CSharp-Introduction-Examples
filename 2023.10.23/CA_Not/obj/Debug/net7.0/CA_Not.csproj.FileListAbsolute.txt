@@ -1,0 +1,29 @@
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Not\bin\Debug\net7.0\CA_Not.exe
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Not\bin\Debug\net7.0\CA_Not.deps.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Not\bin\Debug\net7.0\CA_Not.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Not\bin\Debug\net7.0\CA_Not.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Not\bin\Debug\net7.0\CA_Not.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Not\obj\Debug\net7.0\CA_Not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Not\obj\Debug\net7.0\CA_Not.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Not\obj\Debug\net7.0\CA_Not.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Not\obj\Debug\net7.0\CA_Not.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Not\obj\Debug\net7.0\CA_Not.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Not\obj\Debug\net7.0\refint\CA_Not.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Not\obj\Debug\net7.0\CA_Not.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Not\obj\Debug\net7.0\CA_Not.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Not\obj\Debug\net7.0\ref\CA_Not.dll
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Not\bin\Debug\net7.0\CA_Not.exe
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Not\bin\Debug\net7.0\CA_Not.deps.json
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Not\bin\Debug\net7.0\CA_Not.runtimeconfig.json
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Not\bin\Debug\net7.0\CA_Not.dll
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Not\bin\Debug\net7.0\CA_Not.pdb
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Not\obj\Debug\net7.0\CA_Not.csproj.AssemblyReference.cache
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Not\obj\Debug\net7.0\CA_Not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Not\obj\Debug\net7.0\CA_Not.AssemblyInfoInputs.cache
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Not\obj\Debug\net7.0\CA_Not.AssemblyInfo.cs
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Not\obj\Debug\net7.0\CA_Not.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Not\obj\Debug\net7.0\CA_Not.dll
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Not\obj\Debug\net7.0\refint\CA_Not.dll
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Not\obj\Debug\net7.0\CA_Not.pdb
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Not\obj\Debug\net7.0\CA_Not.genruntimeconfig.cache
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Not\obj\Debug\net7.0\ref\CA_Not.dll

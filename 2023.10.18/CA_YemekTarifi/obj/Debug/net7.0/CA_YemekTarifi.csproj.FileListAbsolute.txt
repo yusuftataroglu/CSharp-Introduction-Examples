@@ -1,0 +1,14 @@
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_YemekTarifi\bin\Debug\net7.0\CA_YemekTarifi.exe
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_YemekTarifi\bin\Debug\net7.0\CA_YemekTarifi.deps.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_YemekTarifi\bin\Debug\net7.0\CA_YemekTarifi.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_YemekTarifi\bin\Debug\net7.0\CA_YemekTarifi.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_YemekTarifi\bin\Debug\net7.0\CA_YemekTarifi.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_YemekTarifi\obj\Debug\net7.0\CA_YemekTarifi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_YemekTarifi\obj\Debug\net7.0\CA_YemekTarifi.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_YemekTarifi\obj\Debug\net7.0\CA_YemekTarifi.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_YemekTarifi\obj\Debug\net7.0\CA_YemekTarifi.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_YemekTarifi\obj\Debug\net7.0\CA_YemekTarifi.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_YemekTarifi\obj\Debug\net7.0\refint\CA_YemekTarifi.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_YemekTarifi\obj\Debug\net7.0\CA_YemekTarifi.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_YemekTarifi\obj\Debug\net7.0\CA_YemekTarifi.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_YemekTarifi\obj\Debug\net7.0\ref\CA_YemekTarifi.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CA_Barbut_Metotlu/1.0.0": {
+        "runtime": {
+          "CA_Barbut_Metotlu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CA_Barbut_Metotlu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

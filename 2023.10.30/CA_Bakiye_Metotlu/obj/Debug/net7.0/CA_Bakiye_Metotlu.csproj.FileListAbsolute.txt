@@ -1,0 +1,14 @@
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Bakiye_Metotlu\bin\Debug\net7.0\CA_Bakiye_Metotlu.exe
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Bakiye_Metotlu\bin\Debug\net7.0\CA_Bakiye_Metotlu.deps.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Bakiye_Metotlu\bin\Debug\net7.0\CA_Bakiye_Metotlu.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Bakiye_Metotlu\bin\Debug\net7.0\CA_Bakiye_Metotlu.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Bakiye_Metotlu\bin\Debug\net7.0\CA_Bakiye_Metotlu.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Bakiye_Metotlu\obj\Debug\net7.0\CA_Bakiye_Metotlu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Bakiye_Metotlu\obj\Debug\net7.0\CA_Bakiye_Metotlu.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Bakiye_Metotlu\obj\Debug\net7.0\CA_Bakiye_Metotlu.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Bakiye_Metotlu\obj\Debug\net7.0\CA_Bakiye_Metotlu.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Bakiye_Metotlu\obj\Debug\net7.0\CA_Bakiye_Metotlu.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Bakiye_Metotlu\obj\Debug\net7.0\refint\CA_Bakiye_Metotlu.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Bakiye_Metotlu\obj\Debug\net7.0\CA_Bakiye_Metotlu.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Bakiye_Metotlu\obj\Debug\net7.0\CA_Bakiye_Metotlu.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Bakiye_Metotlu\obj\Debug\net7.0\ref\CA_Bakiye_Metotlu.dll

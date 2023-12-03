@@ -1,0 +1,14 @@
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Menu_Metotlu\bin\Debug\net7.0\CA_Menu_Metotlu.exe
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Menu_Metotlu\bin\Debug\net7.0\CA_Menu_Metotlu.deps.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Menu_Metotlu\bin\Debug\net7.0\CA_Menu_Metotlu.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Menu_Metotlu\bin\Debug\net7.0\CA_Menu_Metotlu.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Menu_Metotlu\bin\Debug\net7.0\CA_Menu_Metotlu.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Menu_Metotlu\obj\Debug\net7.0\CA_Menu_Metotlu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Menu_Metotlu\obj\Debug\net7.0\CA_Menu_Metotlu.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Menu_Metotlu\obj\Debug\net7.0\CA_Menu_Metotlu.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Menu_Metotlu\obj\Debug\net7.0\CA_Menu_Metotlu.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Menu_Metotlu\obj\Debug\net7.0\CA_Menu_Metotlu.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Menu_Metotlu\obj\Debug\net7.0\refint\CA_Menu_Metotlu.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Menu_Metotlu\obj\Debug\net7.0\CA_Menu_Metotlu.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Menu_Metotlu\obj\Debug\net7.0\CA_Menu_Metotlu.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_30_10_2023\CA_Menu_Metotlu\obj\Debug\net7.0\ref\CA_Menu_Metotlu.dll

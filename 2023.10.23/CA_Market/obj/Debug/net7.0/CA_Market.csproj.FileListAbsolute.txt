@@ -1,0 +1,29 @@
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Market\bin\Debug\net7.0\CA_Market.exe
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Market\bin\Debug\net7.0\CA_Market.deps.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Market\bin\Debug\net7.0\CA_Market.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Market\bin\Debug\net7.0\CA_Market.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Market\bin\Debug\net7.0\CA_Market.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Market\obj\Debug\net7.0\CA_Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Market\obj\Debug\net7.0\CA_Market.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Market\obj\Debug\net7.0\CA_Market.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Market\obj\Debug\net7.0\CA_Market.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Market\obj\Debug\net7.0\CA_Market.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Market\obj\Debug\net7.0\refint\CA_Market.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Market\obj\Debug\net7.0\CA_Market.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Market\obj\Debug\net7.0\CA_Market.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_23_10_2023\CA_Market\obj\Debug\net7.0\ref\CA_Market.dll
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Market\bin\Debug\net7.0\CA_Market.exe
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Market\bin\Debug\net7.0\CA_Market.deps.json
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Market\bin\Debug\net7.0\CA_Market.runtimeconfig.json
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Market\bin\Debug\net7.0\CA_Market.dll
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Market\bin\Debug\net7.0\CA_Market.pdb
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Market\obj\Debug\net7.0\CA_Market.csproj.AssemblyReference.cache
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Market\obj\Debug\net7.0\CA_Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Market\obj\Debug\net7.0\CA_Market.AssemblyInfoInputs.cache
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Market\obj\Debug\net7.0\CA_Market.AssemblyInfo.cs
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Market\obj\Debug\net7.0\CA_Market.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Market\obj\Debug\net7.0\CA_Market.dll
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Market\obj\Debug\net7.0\refint\CA_Market.dll
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Market\obj\Debug\net7.0\CA_Market.pdb
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Market\obj\Debug\net7.0\CA_Market.genruntimeconfig.cache
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_23_10_2023\CA_Market\obj\Debug\net7.0\ref\CA_Market.dll

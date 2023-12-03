@@ -1,0 +1,28 @@
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_Guzergah\bin\Debug\net7.0\CA_Guzergah.exe
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_Guzergah\bin\Debug\net7.0\CA_Guzergah.deps.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_Guzergah\bin\Debug\net7.0\CA_Guzergah.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_Guzergah\bin\Debug\net7.0\CA_Guzergah.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_Guzergah\bin\Debug\net7.0\CA_Guzergah.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_Guzergah\obj\Debug\net7.0\CA_Guzergah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_Guzergah\obj\Debug\net7.0\CA_Guzergah.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_Guzergah\obj\Debug\net7.0\CA_Guzergah.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_Guzergah\obj\Debug\net7.0\CA_Guzergah.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_Guzergah\obj\Debug\net7.0\CA_Guzergah.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_Guzergah\obj\Debug\net7.0\refint\CA_Guzergah.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_Guzergah\obj\Debug\net7.0\CA_Guzergah.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_Guzergah\obj\Debug\net7.0\CA_Guzergah.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_18_10_2023\CA_Guzergah\obj\Debug\net7.0\ref\CA_Guzergah.dll
+C:\Users\yusuf\OneDrive\Belgeler\C#_Examples_Github\2023.10.18\CA_Guzergah\bin\Debug\net7.0\CA_Guzergah.exe
+C:\Users\yusuf\OneDrive\Belgeler\C#_Examples_Github\2023.10.18\CA_Guzergah\bin\Debug\net7.0\CA_Guzergah.deps.json
+C:\Users\yusuf\OneDrive\Belgeler\C#_Examples_Github\2023.10.18\CA_Guzergah\bin\Debug\net7.0\CA_Guzergah.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Belgeler\C#_Examples_Github\2023.10.18\CA_Guzergah\bin\Debug\net7.0\CA_Guzergah.dll
+C:\Users\yusuf\OneDrive\Belgeler\C#_Examples_Github\2023.10.18\CA_Guzergah\bin\Debug\net7.0\CA_Guzergah.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C#_Examples_Github\2023.10.18\CA_Guzergah\obj\Debug\net7.0\CA_Guzergah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Belgeler\C#_Examples_Github\2023.10.18\CA_Guzergah\obj\Debug\net7.0\CA_Guzergah.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C#_Examples_Github\2023.10.18\CA_Guzergah\obj\Debug\net7.0\CA_Guzergah.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Belgeler\C#_Examples_Github\2023.10.18\CA_Guzergah\obj\Debug\net7.0\CA_Guzergah.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C#_Examples_Github\2023.10.18\CA_Guzergah\obj\Debug\net7.0\CA_Guzergah.dll
+C:\Users\yusuf\OneDrive\Belgeler\C#_Examples_Github\2023.10.18\CA_Guzergah\obj\Debug\net7.0\refint\CA_Guzergah.dll
+C:\Users\yusuf\OneDrive\Belgeler\C#_Examples_Github\2023.10.18\CA_Guzergah\obj\Debug\net7.0\CA_Guzergah.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C#_Examples_Github\2023.10.18\CA_Guzergah\obj\Debug\net7.0\CA_Guzergah.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Belgeler\C#_Examples_Github\2023.10.18\CA_Guzergah\obj\Debug\net7.0\ref\CA_Guzergah.dll

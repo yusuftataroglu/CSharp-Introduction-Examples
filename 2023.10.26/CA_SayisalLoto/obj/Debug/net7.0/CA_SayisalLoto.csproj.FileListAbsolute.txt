@@ -1,0 +1,14 @@
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_26_10_2023\CA_SayisalLoto\bin\Debug\net7.0\CA_SayisalLoto.exe
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_26_10_2023\CA_SayisalLoto\bin\Debug\net7.0\CA_SayisalLoto.deps.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_26_10_2023\CA_SayisalLoto\bin\Debug\net7.0\CA_SayisalLoto.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_26_10_2023\CA_SayisalLoto\bin\Debug\net7.0\CA_SayisalLoto.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_26_10_2023\CA_SayisalLoto\bin\Debug\net7.0\CA_SayisalLoto.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_26_10_2023\CA_SayisalLoto\obj\Debug\net7.0\CA_SayisalLoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_26_10_2023\CA_SayisalLoto\obj\Debug\net7.0\CA_SayisalLoto.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_26_10_2023\CA_SayisalLoto\obj\Debug\net7.0\CA_SayisalLoto.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_26_10_2023\CA_SayisalLoto\obj\Debug\net7.0\CA_SayisalLoto.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_26_10_2023\CA_SayisalLoto\obj\Debug\net7.0\CA_SayisalLoto.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_26_10_2023\CA_SayisalLoto\obj\Debug\net7.0\refint\CA_SayisalLoto.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_26_10_2023\CA_SayisalLoto\obj\Debug\net7.0\CA_SayisalLoto.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_26_10_2023\CA_SayisalLoto\obj\Debug\net7.0\CA_SayisalLoto.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_26_10_2023\CA_SayisalLoto\obj\Debug\net7.0\ref\CA_SayisalLoto.dll

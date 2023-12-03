@@ -1,0 +1,29 @@
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_25_10_2023\CA_TahminEt\bin\Debug\net7.0\CA_TahminEt.exe
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_25_10_2023\CA_TahminEt\bin\Debug\net7.0\CA_TahminEt.deps.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_25_10_2023\CA_TahminEt\bin\Debug\net7.0\CA_TahminEt.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_25_10_2023\CA_TahminEt\bin\Debug\net7.0\CA_TahminEt.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_25_10_2023\CA_TahminEt\bin\Debug\net7.0\CA_TahminEt.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_25_10_2023\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_25_10_2023\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_25_10_2023\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_25_10_2023\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_25_10_2023\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_25_10_2023\CA_TahminEt\obj\Debug\net7.0\refint\CA_TahminEt.dll
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_25_10_2023\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.pdb
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_25_10_2023\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Belgeler\C# Notlar\CA_Odev_25_10_2023\CA_TahminEt\obj\Debug\net7.0\ref\CA_TahminEt.dll
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_25_10_2023\CA_TahminEt\bin\Debug\net7.0\CA_TahminEt.exe
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_25_10_2023\CA_TahminEt\bin\Debug\net7.0\CA_TahminEt.deps.json
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_25_10_2023\CA_TahminEt\bin\Debug\net7.0\CA_TahminEt.runtimeconfig.json
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_25_10_2023\CA_TahminEt\bin\Debug\net7.0\CA_TahminEt.dll
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_25_10_2023\CA_TahminEt\bin\Debug\net7.0\CA_TahminEt.pdb
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_25_10_2023\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.csproj.AssemblyReference.cache
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_25_10_2023\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_25_10_2023\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.AssemblyInfoInputs.cache
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_25_10_2023\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.AssemblyInfo.cs
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_25_10_2023\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_25_10_2023\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.dll
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_25_10_2023\CA_TahminEt\obj\Debug\net7.0\refint\CA_TahminEt.dll
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_25_10_2023\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.pdb
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_25_10_2023\CA_TahminEt\obj\Debug\net7.0\CA_TahminEt.genruntimeconfig.cache
+C:\Users\yusuf.tataroglu\Downloads\CA_Odev_25_10_2023\CA_TahminEt\obj\Debug\net7.0\ref\CA_TahminEt.dll

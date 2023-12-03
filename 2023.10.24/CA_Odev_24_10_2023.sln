@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA_Bakiye", "CA_Bakiye\CA_Bakiye.csproj", "{411DDA90-E850-4D00-8481-B5ACFC957B15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA_Barbut", "CA_Barbut\CA_Barbut.csproj", "{4214DF9D-8FBF-45CB-9FAE-9B890B064282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{411DDA90-E850-4D00-8481-B5ACFC957B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411DDA90-E850-4D00-8481-B5ACFC957B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{411DDA90-E850-4D00-8481-B5ACFC957B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{411DDA90-E850-4D00-8481-B5ACFC957B15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4214DF9D-8FBF-45CB-9FAE-9B890B064282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4214DF9D-8FBF-45CB-9FAE-9B890B064282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4214DF9D-8FBF-45CB-9FAE-9B890B064282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4214DF9D-8FBF-45CB-9FAE-9B890B064282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A2F4DB7-026B-43A3-987A-291F5F9AB0AC}
+	EndGlobalSection
+EndGlobal
